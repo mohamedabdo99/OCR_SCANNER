@@ -14,7 +14,7 @@ class SplashBody extends StatelessWidget {
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(15.0),
             ),
-            //
+            //moo
             child: Image.asset(
               'assets/images/bacground.png',
               height: 240.0,
